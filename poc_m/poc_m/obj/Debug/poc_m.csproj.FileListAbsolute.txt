@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\poc_m\poc_m\bin\Debug\poc_m.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\poc_m\poc_m\bin\Debug\poc_m.exe
+c:\users\administrator\documents\visual studio 2015\Projects\poc_m\poc_m\bin\Debug\poc_m.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\poc_m\poc_m\obj\Debug\poc_m.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\poc_m\poc_m\obj\Debug\poc_m.exe
+c:\users\administrator\documents\visual studio 2015\Projects\poc_m\poc_m\obj\Debug\poc_m.pdb
